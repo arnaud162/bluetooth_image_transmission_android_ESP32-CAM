@@ -1,6 +1,6 @@
 # bluetooth_image_transmission_android_ESP32
 
--Upload ino file to ESP32-CAM
+-Upload ino file to ESP32-CAM. Procedure detailed here : (add link)
 
 -Compile android project using android studio and upload it to your favourite smartphone.
 
