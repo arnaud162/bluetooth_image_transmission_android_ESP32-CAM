@@ -1,4 +1,4 @@
-# bluetooth_image_transmission_android_ESP32
+# bluetooth_image_transmission_android_ESP32-CAM
 
 -Upload ino file to ESP32-CAM. Procedure detailed here : (add link)
 
